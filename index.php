@@ -12,25 +12,26 @@
     <style>
 
     body{
-        background-image: url('images/library.jpg')
-        
+        background-image: url('images/background.jpg');
+        background-size: 1725px;
+
     }
 
 
     .login-form-3 .btnSubmit {
     font-weight: 600;
     color: #0062cc;
-    background-color: #fff;
+    background-color: blue;
 }
 
 .login-form-3 h3 {
     text-align: center;
-    color: #fff;
+    color: green;
 }
 
 .login-form-1 h3 {
     text-align: center;
-    color: #fff;
+    color: green;
 }
 .login-form-3 {
     padding: 5%;
